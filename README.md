@@ -4,7 +4,8 @@ Este proyecto implementa un modelo de regresión lineal para predecir puntuacion
 
 ## Ejecución del Proyecto
 
-1. Instalar las dependencias con `pipenv install`.
+1. Instalar las dependencias con `pip install -r requirements.txt
+`.
 2. Ejecutar el archivo `.ipynb` para el análisis de datos y el entrenamiento del modelo.
 3. Iniciar la API con el siguiente comando:
    ```sh
@@ -19,7 +20,8 @@ This project implements a linear regression model to predict exam scores based o
 
 ## Project Execution
 
-1. Install dependencies with `pipenv install`.
+1. Install dependencies with `pip install -r requirements.txt
+`.
 2. Run the `.ipynb` file for data analysis and model training.
 3. Start the API with the following command:
    ```sh
@@ -57,9 +59,11 @@ Este projeto implementa um modelo de regressão linear para prever a pontuação
 ## Como Executar o Projeto
 
 1. Instale as dependências usando `pipenv`:
+
    ```sh
-   pipenv install
+   pip install -r requirements.txt
    ```
+
 2. Execute o notebook para carregar os dados, treinar e validar o modelo.
 3. Inicie a API para fazer previsões com o modelo:
    ```sh
